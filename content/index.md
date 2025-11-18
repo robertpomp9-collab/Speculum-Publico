@@ -1,5 +1,5 @@
 ---
-"title:": Inicio
+title: Inicio
 ---
 # Bienvenido a Speculum
 
